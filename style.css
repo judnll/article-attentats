@@ -1,0 +1,66 @@
+h1{
+	color: white;
+	font-size: 32px;
+	font-family: Arial, sans-serif;
+	margin: 70px;
+	text-align: center;
+	background-color: #495057;
+}
+h2{
+	color: #6c757d;
+	font-size: 22px;
+	font-family:  Arial, sans-serif;
+	margin: 20px;
+	text-align: center;
+}
+
+p {
+	color: #212529;
+	font-size: 17px;
+	font-family: 'Noto Serif', serif;
+	margin: 40px;
+	text-align: center;
+}
+
+
+.center {
+	text-align: center;
+}
+
+.lycee{ 
+	width: 370px;
+	length: 370px;
+	margin: 40px auto;
+
+ } 
+
+.bruxelles{
+	width: 370px;
+	length: 370px;
+	margin: 40px;
+	text-align: center;
+}
+
+
+body {
+	background-color: #F7FAF7;
+	border: 3px solid black;
+}
+
+.center{
+	display: flex;
+	align-items: center;
+}
+
+.card{
+	display: flex;
+	align-items: center;
+} 
+
+#aline-right{
+	text-align: right;
+}
+
+#aline-left{
+	text-align: left;
+}
